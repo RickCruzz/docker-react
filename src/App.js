@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hi there! Lets build the future using the tools. \o/
+          CI/CD is needed right?
         </p>
         <a
           className="App-link"
